@@ -33,7 +33,7 @@
 ✅ **Other:** Git, GitHub, Problem-solving  
 
 ---
-
+<!--
 ## 📂 Featured Projects  
 
 | Project | Tools | Description |
@@ -42,7 +42,7 @@
 | **🔮 Customer Churn Prediction** | Python, ML | Built ML models (Logistic Regression, Random Forest) with evaluation |
 | **🌐 Google Search Clone** | React, Web | Front-end project with search functionality & analytics exploration |
 
----
+--->
 
 ## 📘 Currently Learning  
 - Advanced Excel for Analytics  
